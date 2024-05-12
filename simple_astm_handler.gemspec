@@ -1,6 +1,6 @@
 # astm_handler.gemspec
 Gem::Specification.new do |s|
-  s.name        = 'simple_astm_handler'
+  s.name        = 'astm_handler'
   s.version     = '0.1.0'
   s.date        = '2024-05-12'
   s.summary     = "ASTM Message Handler Gem"
